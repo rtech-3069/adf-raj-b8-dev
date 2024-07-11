@@ -1,0 +1,9 @@
+{
+	"name": "adf-raj-b8-dev",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0661d893-4cde-4f5b-abe2-ceb0736963fb",
+		"tenantId": "c17e8db8-915b-4b26-b4bb-dc99f6f43fa7"
+	}
+}
